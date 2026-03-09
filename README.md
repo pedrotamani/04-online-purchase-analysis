@@ -105,14 +105,11 @@ The notebook includes:
 
 ---
 
-# 📌 Key Insights
+# 📌 Key Business Insights
 
-Some observations from the analysis include:
-
-* Certain product categories concentrate a higher number of purchases.
-* Product prices show noticeable variability across categories.
-* Payment methods vary depending on purchasing patterns.
-* Seller ratings help identify vendors with stronger performance.
+- A small number of product categories concentrates most of the purchases, suggesting a strong demand concentration that could guide inventory prioritization.
+- Products with higher seller ratings tend to show more consistent purchasing patterns, indicating trust plays a key role in transaction decisions.
+- Credit card payments dominate transactions, suggesting installment strategies could influence sales performance.
 
 ---
 
