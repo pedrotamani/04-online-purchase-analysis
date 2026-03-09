@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-purple)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-green)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-red)
+
 # 🛒 Online Purchase Exploratory Data Analysis
 
 This project performs an **Exploratory Data Analysis (EDA)** on an online purchase dataset using Python.
